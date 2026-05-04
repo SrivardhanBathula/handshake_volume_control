@@ -69,12 +69,6 @@ python handshake_volume_control.py
 
 ---
 
-## 📸 Demo
-
-(Add screenshots or GIF here)
-
----
-
 ## 📁 Project Structure
 
 ```
